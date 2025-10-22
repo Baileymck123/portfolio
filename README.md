@@ -4,10 +4,10 @@
 
 ### SpaceGame
 
-detailed description
+This is a 2D arcade space shooter game, where the player controls a colorful spaceship through asteroids fields attempting to destroy the astroids before they collide with the ship or pass off the screen. The goal is to survive and destroy the astroiods without letting more the 10 rocks pass or losing their health. It includes health power ups in the form of a star and ammo in the form of a bullet which provide either 10 health or ammo. The laser is an animated strite and when it collides with the astroid, the astroid will disapeer and the score will increase. the game will end when health reaches zero or more then 10 rocks have passed.
 
 ![Running Game](https://github.com/Baileymck123/portfolio/blob/main/images/Spacegame01.png?raw=true)
 
-* [Windows](https://github.com/Baileymck123/portfolio/blob/main/src/windows-amd64.zip)
-* [MacOS](https://github.com/Baileymck123/portfolio/blob/main/src/macos-aarch64.zip)
-* [Source Code](https://github.com/Baileymck123/portfolio/tree/main/src/SpaceGame)
+* [Windows]()
+* [MacOS]()
+* [Source Code]()
