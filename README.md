@@ -8,6 +8,6 @@ This is a 2D arcade space shooter game, where the player controls a colorful spa
 
 ![Running Game](https://github.com/Baileymck123/portfolio/blob/main/images/Spacegame01.png?raw=true)
 
-* [Windows]()
-* [MacOS]()
-* [Source Code]()
+* [Windows](./src/spacegamecorrect/windows-amd64)
+* [MacOS](./src/spacegamecorrect/macos-aarch64)
+* [Source Code](./src)
