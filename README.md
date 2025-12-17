@@ -20,7 +20,7 @@ In this game you will wander through dark corridors collecting spooky coins. The
 ![Startscreen](https://github.com/Baileymck123/portfolio/blob/main/images/Startscreen.png)
 ![Settings](https://github.com/Baileymck123/portfolio/blob/main/images/SettingsScreen.png)
 ![Maze](https://github.com/Baileymck123/portfolio/blob/main/images/maze.png)
-![EndScreen](https://github.com/codinghasini/GameDev-Group/blob/main/images/endScreen.png)
+![EndScreen](https://github.com/Baileymck123/portfolio/blob/main/images/endScreen.png)
 
 * [Repository](https://github.com/codinghasini/GameDev-Group)
 * [Source Code](./src)
