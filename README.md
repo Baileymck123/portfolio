@@ -11,3 +11,17 @@ This is a 2D arcade space shooter game, where the player controls a colorful spa
 * [Windows](./src/spacegamecorrect/windows-amd64)
 * [MacOS](./src/spacegamecorrect/macos-aarch64)
 * [Source Code](./src)
+## Project for Term 2
+
+### Echoes of the Maze
+
+In this game you will wander through dark corridors collecting spooky coins. The goal is to grab as many coins as possible and find the exit, but the maze is filled with creepy obstacles that can appear out of nowhere. It’s easy to play but hard to shake the feeling that something might be following you.
+
+![Startscreen](https://github.com/codinghasini/GameDev-Group/blob/main/images/Startscreen.png)
+![Settings](https://github.com/codinghasini/GameDev-Group/blob/main/images/SettingsScreen.png)
+![Maze](https://github.com/codinghasini/GameDev-Group/blob/main/images/maze.png)
+![EndScreen](https://github.com/codinghasini/GameDev-Group/blob/main/images/endScreen.png)
+
+* [Repository](https://github.com/codinghasini/GameDev-Group)
+* 
+* [Source Code](./src)
