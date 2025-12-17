@@ -23,5 +23,6 @@ In this game you will wander through dark corridors collecting spooky coins. The
 ![EndScreen](https://github.com/codinghasini/GameDev-Group/blob/main/images/endScreen.png)
 
 * [Repository](https://github.com/codinghasini/GameDev-Group)
-* 
 * [Source Code](./src)
+
+  
