@@ -1,6 +1,6 @@
 # Bailey Mckeithen Game Dev Portfolio 2026
 
-## Projects for Term 1
+## Project for Term 1
 
 ### SpaceGame
 
