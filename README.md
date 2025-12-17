@@ -26,4 +26,4 @@ In this game you will wander through dark corridors collecting spooky coins. The
 * [Source Code](./src)
 ## Game Development Fundamentals 1 certificate
 
-  ![Startscreen(https://github.com/Baileymck123/portfolio/blob/main/images/Bailey%20McKeithen_Game%20Development%20Fundamentals%20Certification.pdf)
+  ![Startscreen](https://github.com/Baileymck123/portfolio/blob/main/images/Bailey%20McKeithen_Game%20Development%20Fundamentals%20Certification.pdf)
